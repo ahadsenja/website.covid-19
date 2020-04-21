@@ -1,0 +1,79 @@
+.btn-memulai {
+  background-color: #FA7B7B;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: 'Muli', sans-serif;
+}
+
+.btn-memulai:hover {
+  background-color: #E26D6D;
+  color: white;
+  text-decoration: none;
+}
+
+.covid-19 {
+  margin-top: 100px;
+}
+
+.covid-19 h1 {
+  font-family: 'Muli', sans-serif;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #333333;
+}
+
+.covid-19 p {
+  font-family: 'Muli', sans-serif;
+  margin-bottom: 48px;
+  color: #333333;
+}
+
+li .nav-link {
+  font-family: 'Muli', sans-serif;
+  color: #333333;
+}
+
+.nav-item {
+  padding: 10px;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+  color: #FA7B7B;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #333333;
+}
+
+.btn-sign-in {
+  background-color: none;
+  color: #333333;
+  padding: 8px 18px;
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: 'Muli', sans-serif;
+}
+
+.btn-sign-in:hover {
+  background-color: #cccccc;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-sign-up {
+  background-color: #FA7B7B;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: 'Muli', sans-serif;
+}
+
+.btn-sign-up:hover {
+  background-color: #E26D6D;
+  color: white;
+  text-decoration: none;
+}
